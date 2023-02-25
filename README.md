@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ansh420
+- 👋 Hi, I’m Aanshu Maurya
 - 👀 I’m interested in devloping ideas
 - 🌱 I’m currently focused on machine learning
 - 📫 you can reach me at the anshmaurya4420gmial.com
