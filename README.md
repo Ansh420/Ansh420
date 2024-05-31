@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aanshu Maurya
 - 👀 I’m interested in devloping ideas, creating models
-- 🌱 I’m currently focused on machine learning deep learning Natural Language processing
+- 🌱 I’m currently focused on machine learning deep learning
 - 📫 you can reach me at the anshmaurya4420gmial.com
 
 <!---
