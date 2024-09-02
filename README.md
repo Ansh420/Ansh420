@@ -1,4 +1,3 @@
-- [Insert a captivating image or GIF here]
 
 ## Hi there! 👋
 
@@ -8,11 +7,11 @@ I'm Aanshu Maurya, a passionate machine learning enthusiast driven by the power 
 
 **Build intelligent systems**: I love crafting models that can learn, reason, and make informed decisions.
 Solve real-world problems: From predicting customer behavior to optimizing processes, I'm always seeking opportunities to apply machine learning for practical benefits.
-My tech stack:
+## My tech stack:
 
-**Python**: My go-to language for data manipulation, model development, and deployment.
-**Machine learning frameworks**: TensorFlow, PyTorch, Keras—I'm proficient in these and always eager to explore new ones.
-**Cloud platforms**: AWS, GCP, Azure—Experience in deploying and scaling machine learning models in cloud environments.
+- **Python**: My go-to language for data manipulation, model development, and deployment.
+- **Machine learning frameworks**: TensorFlow, PyTorch, Keras—I'm proficient in these and always eager to explore new ones.
+- **Cloud platforms**: AWS, GCP, Azure—Experience in deploying and scaling machine learning models in cloud environments.
 
 
 ## Let's connect:
@@ -25,7 +24,8 @@ My tech stack:
 - Collaborations on exciting machine learning projects
 - Mentorship opportunities to guide aspiring data scientists
 - Opportunities to contribute to open-source machine learning projects
-**Let's work together to build a better future!**
+- 
+## **Let's work together to build a better future!**
 
 
 <!---
