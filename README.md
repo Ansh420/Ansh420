@@ -5,8 +5,9 @@ I'm Aanshu Maurya, a passionate machine learning enthusiast driven by the power 
 
 ## What I do:
 
-**Build intelligent systems**: I love crafting models that can learn, reason, and make informed decisions.
-Solve real-world problems: From predicting customer behavior to optimizing processes, I'm always seeking opportunities to apply machine learning for practical benefits.
+- **Build intelligent systems**: I love crafting models that can learn, reason, and make informed decisions.
+- **Solve real-world problems**: From predicting customer behavior to optimizing processes, **I'm always seeking opportunities to apply machine learning for practical benefits**.
+
 ## My tech stack:
 
 - **Python**: My go-to language for data manipulation, model development, and deployment.
