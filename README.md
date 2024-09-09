@@ -1,5 +1,5 @@
 
-## Hi there! 👋
+# Hi there! 👋
 
 I'm Aanshu Maurya, a passionate machine learning enthusiast driven by the power of data and algorithms.
 
@@ -26,7 +26,7 @@ I'm Aanshu Maurya, a passionate machine learning enthusiast driven by the power 
 - Mentorship opportunities to guide aspiring data scientists
 - Opportunities to contribute to open-source machine learning projects
 - 
-## **Let's work together to build a better future!**
+# **Let's work together to build a better future!**
 
 
 <!---
