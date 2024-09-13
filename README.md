@@ -1,3 +1,4 @@
+![08d247bf9f143cc33a18fae1cce2f10d](https://github.com/user-attachments/assets/e7185609-b455-4ef9-8344-466aefc5659e)
 
 # Hi there! 👋 (•_•) 
 
@@ -27,6 +28,7 @@ I'm Aanshu Maurya, a passionate machine learning enthusiast driven by the power 
 - Opportunities to contribute to open-source machine learning projects
 
 # **Let's work together to build a better future! (●'◡'●)**
+![squishiverse-squishiland](https://github.com/user-attachments/assets/9a3ef716-5af9-43fe-90c6-3caa4ec4b5cd)
 
 
 <!---
