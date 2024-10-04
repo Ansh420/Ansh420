@@ -13,7 +13,7 @@ I'm Aanshu Maurya, a passionate machine learning enthusiast driven by the power 
 
 - **Python**: My go-to language for data manipulation, model development, and deployment.
 - **Machine learning frameworks**: TensorFlow, PyTorch, Keras—I'm proficient in these and always eager to explore new ones.
-- **Cloud platforms**: AWS, GCP, Azure—Experience in deploying and scaling machine learning models in cloud environments.
+- **Cloud platforms**: AWS, GCP, Azure—Experience in deploying and scaling **machine learning models** in cloud environments.
 
 
 ## Let's connect:
